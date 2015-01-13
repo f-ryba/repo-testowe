@@ -3,3 +3,4 @@ repozytorium testowe
 cośtam
 czytaj mnie
 blah
+tralala
