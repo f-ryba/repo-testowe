@@ -3,5 +3,9 @@
 	"kolor": "pomaranczowy",
 	"liczba": 5,
 	"rower": "ukraina",
-	"klawisz": "F5"
+	"klawisz": "F5",
+    "drzwi": [
+        "frontowe",
+        "uchylne"
+    ]
 }
