@@ -9,5 +9,5 @@
         "uchylne"
     ],
     "materiał": "szkło",
-    "samochod": "Nissan"
+    "samochod": ["Nissan", "Opel"]
 }
